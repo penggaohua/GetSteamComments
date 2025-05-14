@@ -1,2 +1,2 @@
 # GetSteamComments
-爬取某个游戏的steam评论
+爬取steam上某个游戏的所有评论
